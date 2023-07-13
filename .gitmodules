@@ -1,3 +1,6 @@
 [submodule "libraries"]
 	path = libraries
-	url = https://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@github.com/thuyenvunguyen/libraries.git
+	url = https://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@github.com/thuyenvunguyen/libraries.git
+[submodule "lib"]
+	path = lib
+	url = https://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@github.com/thuyenvunguyen/libraries.git
